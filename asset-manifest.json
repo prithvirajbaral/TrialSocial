@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TrialSocial/static/css/main.073c9b0a.css",
+    "main.js": "/TrialSocial/static/js/main.3334833d.js",
+    "static/js/787.fc9314e1.chunk.js": "/TrialSocial/static/js/787.fc9314e1.chunk.js",
+    "index.html": "/TrialSocial/index.html",
+    "main.073c9b0a.css.map": "/TrialSocial/static/css/main.073c9b0a.css.map",
+    "main.3334833d.js.map": "/TrialSocial/static/js/main.3334833d.js.map",
+    "787.fc9314e1.chunk.js.map": "/TrialSocial/static/js/787.fc9314e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3334833d.js"
+  ]
+}
